@@ -29,13 +29,3 @@ Foundation | Dispatch | UIKit | CoreBluetooth
 --- | --- | --- | ---
 Timer | DispatchQueue | UIScrollView, UITableView, UIStackView, Auto Layout | BLE Peripheral
 NSCache |  | UILabel, UIImageView, UITextField, UISwitch, UIButton, UITextView |
-
-# CONTACT
-Tuan Pham
-
-Senior Developer, Technical Leader
-
-English, 日本語
-
-tuanpq@gmail.com
-

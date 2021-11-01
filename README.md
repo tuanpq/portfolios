@@ -1,3 +1,20 @@
+# Business Domain
+- Social Network
+- Geofence and Location Tracking
+- ERP
+- Video Streaming
+- CAD
+- VoIP
+- Health and Fitness
+- News & Portal
+- Produtivity tools
+- Education
+
+# Software Development Methodology
+- Agile
+- Waterfall
+- Prototype
+
 # Mobile Development
 iOS | Android | React Native | Flutter
 --- | --- | --- | --- 
@@ -11,14 +28,23 @@ MFC | | .NET |
 Qt | | |
 
 # Web Development
-Backend | Frontend
+Back-end | Front-end
 --- | --- 
 Spring | ReactJS
 Laravel | VueJS
 
 # Database
-* MySQL
-* PostgreSQL
-* Oracle
-* MSSQL
-* MongoDB
+- MySQL
+- PostgreSQL
+- Oracle
+- MSSQL
+- MongoDB
+
+# Protocol
+- HTTP/HTTPS
+- TCP/IP
+- FPT
+- RS232
+- Bluetooth
+- HLS
+- SIP

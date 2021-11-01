@@ -29,13 +29,3 @@ Component | UI | Bluetooth | 3rd Library |
 --- | --- | --- | ---
 Activity | Fragment |  | Glide
 Service | Recycler View, Card Ciew |  | EventBus |
-
-# CONTACT
-Tuan Pham
-
-Senior Developer, Technical Leader
-
-English, 日本語
-
-tuanpq@gmail.com
-
